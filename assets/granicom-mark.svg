@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Граником">
+  <rect width="64" height="64" rx="15" fill="#e9ece4"/>
+  <rect x="8" y="8" width="48" height="48" rx="12" fill="#fbfcf9" stroke="#4d5346" stroke-width="4"/>
+  <path d="M15 19H49V40C49 46.6 43.6 52 37 52H27C20.4 52 15 46.6 15 40Z" fill="#d9ded3"/>
+  <circle cx="47" cy="19" r="5" fill="#fbfcf9" stroke="#4d5346" stroke-width="3"/>
+  <path d="M44.5 22.5C40.5 24 37 27.5 33.5 31" fill="none" stroke="#4d5346" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="33" cy="32" r="2.5" fill="#4d5346"/>
+  <circle cx="32" cy="43" r="5" fill="#4d5346"/>
+  <circle cx="32" cy="43" r="2" fill="#e9ece4"/>
+  <circle cx="17" cy="21" r="2" fill="#899176"/>
+</svg>
