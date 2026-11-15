@@ -1,0 +1,1090 @@
+{
+  "swatches": {
+    "Aviva": {
+      "Нано-сатин": "assets/colors/aviva-5e451c0063.webp",
+      "Нано-золото": "assets/colors/aviva-d8785101b2.webp",
+      "Нано-черный": "assets/colors/aviva-bf02295770.webp",
+      "Сатин": "assets/colors/aviva-8a168bf16c.webp",
+      "Белый": "assets/colors/aviva-a024a93d4e.webp",
+      "Чёрный": "assets/colors/aviva-1ca9b6b05d.webp",
+      "Графит": "assets/colors/aviva-4807faef19.webp",
+      "Черный": "assets/colors/aviva-e8015f9a2c.webp",
+      "Золото": "assets/colors/aviva-25f762fbad.webp"
+    },
+    "Dr. Gans": {
+      "Белый": "assets/colors/dr-gans-a024a93d4e.webp",
+      "Базальт": "assets/colors/dr-gans-6445e85eb4.webp",
+      "Везувий": "assets/colors/dr-gans-2a399991c2.webp",
+      "Графит": "assets/colors/dr-gans-4807faef19.webp",
+      "Дюна": "assets/colors/dr-gans-3be0f8cb09.webp",
+      "Латте": "assets/colors/dr-gans-21c665da34.webp",
+      "Серый": "assets/colors/dr-gans-ea1ae91dfe.webp",
+      "Терра": "assets/colors/dr-gans-c4779d2338.webp",
+      "Терракота": "assets/colors/dr-gans-dcd6e2b7d9.webp",
+      "Чёрный": "assets/colors/dr-gans-1ca9b6b05d.webp"
+    },
+    "Florentina": {
+      "Грей": "assets/colors/florentina-2412a73023.webp",
+      "Антрацит": "assets/colors/florentina-59211d8c4d.webp",
+      "Бежевый": "assets/colors/florentina-99340f13b4.webp",
+      "Жасмин": "assets/colors/florentina-56604bf21c.webp",
+      "Песочный": "assets/colors/florentina-e696a0d11e.webp",
+      "Серый Шелк": "assets/colors/florentina-0cf6fec7fb.webp",
+      "Черный": "assets/colors/florentina-e8015f9a2c.webp",
+      "Шампань": "assets/colors/florentina-2543aea80a.webp",
+      "Брауни": "assets/colors/florentina-68ca77de0e.webp",
+      "Нуар": "assets/colors/florentina-d2cbf9c0bc.webp",
+      "Сатин": "assets/colors/florentina-8a168bf16c.webp"
+    },
+    "Gerhans": {
+      "Сатин": "assets/colors/gerhans-8a168bf16c.webp",
+      "Графит": "assets/colors/gerhans-4807faef19.webp",
+      "Золото": "assets/colors/gerhans-25f762fbad.webp"
+    },
+    "Granicom": {
+      "Сахара": "assets/colors/granicom-4fb30130b5.webp",
+      "Серебро": "assets/colors/granicom-d307dcb885.webp",
+      "Шоколад": "assets/colors/granicom-147e27b4a6.webp",
+      "Дакар": "assets/colors/granicom-4954232b67.webp",
+      "Грей": "assets/colors/granicom-2412a73023.webp",
+      "Обсидиан": "assets/colors/granicom-9d587a9b83.webp",
+      "Крем": "assets/colors/granicom-d920a9d389.webp",
+      "Жасмин": "assets/colors/granicom-56604bf21c.webp",
+      "Антрацит": "assets/colors/granicom-59211d8c4d.webp",
+      "Терра": "assets/colors/granicom-c4779d2338.webp",
+      "Шампань": "assets/colors/granicom-2543aea80a.webp",
+      "Серебристый": "assets/colors/granicom-bc28616673.webp"
+    },
+    "Novell": {
+      "Терра": "assets/colors/novell-c4779d2338.webp",
+      "Колорадо": "assets/colors/novell-ca20b52181.webp",
+      "Латте": "assets/colors/novell-21c665da34.webp",
+      "Марокко": "assets/colors/novell-f6e17af7e9.webp",
+      "Обсидиан": "assets/colors/novell-9d587a9b83.webp",
+      "Белый": "assets/colors/novell-a024a93d4e.webp",
+      "Графит": "assets/colors/novell-4807faef19.webp",
+      "Терракотовый": "assets/colors/novell-690cb43da4.webp",
+      "Серый": "assets/colors/novell-ea1ae91dfe.webp"
+    },
+    "SimGran": {
+      "Темно-серый": "assets/colors/simgran-official-q-temno-seryi.webp",
+      "Черный": "assets/colors/simgran-official-q-chernyi.webp",
+      "Белый": "assets/colors/simgran-official-q-molochnyi.webp",
+      "Бежевый": "assets/colors/simgran-official-q-bejevyi.webp",
+      "Шоколад": "assets/colors/simgran-official-q-chokolad.webp",
+      "Черный мат": "assets/colors/simgran-9cbef7cc8a.webp",
+      "Сафари": "assets/colors/simgran-b31e598871.webp",
+      "Дакар": "assets/colors/simgran-4954232b67.webp",
+      "Песок": "assets/colors/simgran-31b9e38df6.webp"
+    }
+  },
+  "photos": {
+    "fl-antik": {
+      "Грей": "assets/variants/fl-91015d98c0145709bf.webp",
+      "Антрацит": "assets/variants/fl-03564ffb46b274e8ec.webp",
+      "Бежевый": "assets/variants/fl-4614131bcea42f7ce2.webp",
+      "Жасмин": "assets/variants/fl-6d839400ebf5999ee9.webp",
+      "Песочный": "assets/variants/fl-2d998d82e23ca24f66.webp",
+      "Серый Шелк": "assets/variants/fl-c63cef1744526d2cc9.webp",
+      "Черный": "assets/variants/fl-66e0f4935555b85505.webp",
+      "Шампань": "assets/variants/fl-897edd049ca2b9c5b0.webp"
+    },
+    "fl-arona-860": {
+      "Грей": "assets/variants/fl-d185b7d2978b3e9700.webp",
+      "Антрацит": "assets/variants/fl-532681be5e4a3946f6.webp",
+      "Бежевый": "assets/variants/fl-75e16c104c11cbae2c.webp",
+      "Брауни": "assets/variants/fl-85615df0357ba7ec80.webp",
+      "Жасмин": "assets/variants/fl-2e7ebf3ed0b87a5648.webp",
+      "Песочный": "assets/variants/fl-8ace21782c0c135f02.webp",
+      "Серый Шелк": "assets/variants/fl-3f4c88ca7f3cd723f3.webp",
+      "Черный": "assets/variants/fl-172cc0d12979f06910.webp",
+      "Шампань": "assets/variants/fl-938f7fa073188b17da.webp"
+    },
+    "fl-bombej": {
+      "Грей": "assets/variants/fl-d98149c05f308e7cf2.webp",
+      "Антрацит": "assets/variants/fl-49dfa8e4eee2be7059.webp",
+      "Бежевый": "assets/variants/fl-0bd79b99863dfa8bef.webp",
+      "Жасмин": "assets/variants/fl-11e7475a990d677ddc.webp",
+      "Песочный": "assets/variants/fl-ad3fa12c55f854f22c.webp",
+      "Серый Шелк": "assets/variants/fl-527234e71eddb71863.webp",
+      "Черный": "assets/variants/fl-49d59814788d8e37f2.webp",
+      "Шампань": "assets/variants/fl-b7e6f72073c9bdd81b.webp"
+    },
+    "fl-vega-160": {
+      "Грей": "assets/variants/fl-0ffc37548f1cf6ed13.webp",
+      "Антрацит": "assets/variants/fl-80a4575bb2cda15de9.webp",
+      "Бежевый": "assets/variants/fl-a4e93940e03d87ba2b.webp",
+      "Жасмин": "assets/variants/fl-83df8aaec6750a6c7e.webp",
+      "Песочный": "assets/variants/fl-b701f9eaa4995f8a12.webp",
+      "Серый Шелк": "assets/variants/fl-a2601a6f27d94ee298.webp",
+      "Черный": "assets/variants/fl-7cd54e0fe4a4a34535.webp",
+      "Шампань": "assets/variants/fl-8681c7ac83f16d1dec.webp"
+    },
+    "fl-vega-300": {
+      "Грей": "assets/variants/fl-c2a5133bbc79637b16.webp",
+      "Антрацит": "assets/variants/fl-302541ee2d8e07957e.webp",
+      "Бежевый": "assets/variants/fl-32bf7ee4fb82580b85.webp",
+      "Жасмин": "assets/variants/fl-a82b19e1dc665f880a.webp",
+      "Песочный": "assets/variants/fl-b1df59a4d8b5d3d07f.webp",
+      "Серый Шелк": "assets/variants/fl-b2e4a24b0305cd2d68.webp",
+      "Черный": "assets/variants/fl-fb3de90c0046fb59c9.webp",
+      "Шампань": "assets/variants/fl-d14c6e6f93634e547b.webp"
+    },
+    "fl-vega-335160": {
+      "Грей": "assets/variants/fl-b748d0e3050686254a.webp",
+      "Антрацит": "assets/variants/fl-11266d65cd7205eb30.webp",
+      "Бежевый": "assets/variants/fl-30f1c1a4eb448cce9c.webp",
+      "Жасмин": "assets/variants/fl-01fc1faff972f1e26a.webp",
+      "Песочный": "assets/variants/fl-e169434dc0b3eb0992.webp",
+      "Серый Шелк": "assets/variants/fl-ea98e1cea9a86647f7.webp",
+      "Черный": "assets/variants/fl-177d930f90bfae2cd6.webp",
+      "Шампань": "assets/variants/fl-d3fe214be773fe9192.webp"
+    },
+    "fl-vega-360": {
+      "Грей": "assets/variants/fl-47308b228a0c2bfc99.webp",
+      "Антрацит": "assets/variants/fl-4ec345ae13ed6a9a99.webp",
+      "Бежевый": "assets/variants/fl-89db1b72957d219734.webp",
+      "Жасмин": "assets/variants/fl-7800b733c7adb2d2a8.webp",
+      "Песочный": "assets/variants/fl-6d136142fbe0f45a77.webp",
+      "Серый Шелк": "assets/variants/fl-969479ed08eb446eaf.webp",
+      "Черный": "assets/variants/fl-3391149fe9d3fe33cd.webp",
+      "Шампань": "assets/variants/fl-0d80df2717df5d8db3.webp"
+    },
+    "fl-vega-400": {
+      "Грей": "assets/variants/fl-97a6d66a75017c1982.webp",
+      "Антрацит": "assets/variants/fl-ddb2f6cda6f76c6b6c.webp",
+      "Бежевый": "assets/variants/fl-5bb7d804997c54709e.webp",
+      "Жасмин": "assets/variants/fl-40d963196fead0a9b9.webp",
+      "Нуар": "assets/variants/fl-c2dbbbb41b6eab7a8a.webp",
+      "Песочный": "assets/variants/fl-6b5d0a700c45d7ed0a.webp",
+      "Серый Шелк": "assets/variants/fl-6c3edcd6f9ccbb8490.webp",
+      "Черный": "assets/variants/fl-4306218187ca8d6488.webp",
+      "Шампань": "assets/variants/fl-3bc335610cb9094de3.webp"
+    },
+    "fl-vega-500": {
+      "Грей": "assets/variants/fl-d7eac9ad2e7b8fca7b.webp",
+      "Антрацит": "assets/variants/fl-8bc39924bbb2663b68.webp",
+      "Бежевый": "assets/variants/fl-3dede54c5c9a6ce85e.webp",
+      "Жасмин": "assets/variants/fl-6c0a2914f041bffec5.webp",
+      "Нуар": "assets/variants/fl-12a8ce38e01bf9af7b.webp",
+      "Песочный": "assets/variants/fl-bef3e1bc1c75eeed7f.webp",
+      "Серый Шелк": "assets/variants/fl-0a56454957540b39a0.webp",
+      "Черный": "assets/variants/fl-3c27437fe26d96d941.webp",
+      "Шампань": "assets/variants/fl-e6e5cdea8e68f2d4a1.webp"
+    },
+    "fl-vega-700": {
+      "Грей": "assets/variants/fl-3baa886dbaf40cbd2e.webp",
+      "Антрацит": "assets/variants/fl-b5b7b0ae9df4fd57bb.webp",
+      "Бежевый": "assets/variants/fl-ee1422710a85697333.webp",
+      "Жасмин": "assets/variants/fl-b71a15923dc704f0b0.webp",
+      "Песочный": "assets/variants/fl-74d6b06fc413f4c224.webp",
+      "Серый Шелк": "assets/variants/fl-1b8f6478b879c9ad93.webp",
+      "Черный": "assets/variants/fl-9aa83c9891457e92fd.webp",
+      "Шампань": "assets/variants/fl-daf7bfa95e07c44225.webp"
+    },
+    "fl-vega-zero": {
+      "Грей": "assets/variants/fl-aa11024d18683bd3f1.webp",
+      "Антрацит": "assets/variants/fl-b2ac081b3a918afa72.webp",
+      "Бежевый": "assets/variants/fl-fbe72a77279213c6b0.webp",
+      "Жасмин": "assets/variants/fl-c3196c46cdebb3b7d2.webp",
+      "Песочный": "assets/variants/fl-d9f0d5f436f16491d3.webp",
+      "Серый Шелк": "assets/variants/fl-b4bbe077e00998f69f.webp",
+      "Черный": "assets/variants/fl-50875e70673b4f3ef2.webp",
+      "Шампань": "assets/variants/fl-52d05ee010a6e6e70c.webp"
+    },
+    "fl-vega-oval": {
+      "Грей": "assets/variants/fl-d25ca3b130510765c6.webp",
+      "Антрацит": "assets/variants/fl-bdc00546afd3337a7b.webp",
+      "Бежевый": "assets/variants/fl-c05963a418d527a893.webp",
+      "Жасмин": "assets/variants/fl-6cb8a89ae52e6691f6.webp",
+      "Песочный": "assets/variants/fl-8407779bb7f009480c.webp",
+      "Серый Шелк": "assets/variants/fl-d3fc1d02a0a7cac732.webp",
+      "Черный": "assets/variants/fl-c18b9bc71180bd1d7c.webp",
+      "Шампань": "assets/variants/fl-7a31bb9d96174b7a1a.webp"
+    },
+    "fl-vesta": {
+      "Грей": "assets/variants/fl-c0780539c5d6070e07.webp",
+      "Антрацит": "assets/variants/fl-313a67a2a8401cb490.webp",
+      "Бежевый": "assets/variants/fl-af33971fa8a942e505.webp",
+      "Брауни": "assets/variants/fl-cb053acc3d70de66e0.webp",
+      "Жасмин": "assets/variants/fl-2116263847f7ce2830.webp",
+      "Песочный": "assets/variants/fl-f5583d97f74b911c37.webp",
+      "Серый Шелк": "assets/variants/fl-a40bf773efb368127e.webp",
+      "Черный": "assets/variants/fl-499704c946ba1d4fe4.webp",
+      "Шампань": "assets/variants/fl-320744d56e8ee2dede.webp"
+    },
+    "fl-villadzhio": {
+      "Грей": "assets/variants/fl-e6bf43a3549d48b471.webp",
+      "Антрацит": "assets/variants/fl-4baf9f8b34e7a1aa7c.webp",
+      "Жасмин": "assets/variants/fl-d7ea6c699e237f68af.webp",
+      "Песочный": "assets/variants/fl-2bc7961e76f80d7238.webp",
+      "Серый Шелк": "assets/variants/fl-76a2ee7534c6f0fe67.webp",
+      "Черный": "assets/variants/fl-6258d315c87de88a8a.webp",
+      "Шампань": "assets/variants/fl-8660eee091a9869352.webp"
+    },
+    "fl-kassi-780": {
+      "Грей": "assets/variants/fl-ae5fc7143d7ae3710f.webp",
+      "Антрацит": "assets/variants/fl-f786b90bf030b8da89.webp",
+      "Бежевый": "assets/variants/fl-2321e9bb820d3bc537.webp",
+      "Брауни": "assets/variants/fl-d9193b11af11d38ec8.webp",
+      "Жасмин": "assets/variants/fl-07921afa7361586c6d.webp",
+      "Песочный": "assets/variants/fl-4680d3e7e2ad6d3b75.webp",
+      "Серый Шелк": "assets/variants/fl-b7edae815012824583.webp",
+      "Черный": "assets/variants/fl-47ea460a3da08909a9.webp",
+      "Шампань": "assets/variants/fl-4ba431c9990cc2cda4.webp"
+    },
+    "fl-kombi-1160": {
+      "Грей": "assets/variants/fl-3949bd5ddfc6876836.webp",
+      "Антрацит": "assets/variants/fl-2fa1c550d56fc2a397.webp",
+      "Жасмин": "assets/variants/fl-9ddf9af93d7fa30ffc.webp",
+      "Песочный": "assets/variants/fl-d008c65cce3ac8d255.webp",
+      "Серый Шелк": "assets/variants/fl-8f19e95a0cfae96e6c.webp",
+      "Шампань": "assets/variants/fl-868e676fbe8ba88733.webp"
+    },
+    "fl-kombi-480": {
+      "Грей": "assets/variants/fl-9c8165e0950bea02cf.webp",
+      "Антрацит": "assets/variants/fl-d52213b71cc0faa1e4.webp",
+      "Жасмин": "assets/variants/fl-54cd23524127814a8f.webp",
+      "Песочный": "assets/variants/fl-0d778d57246200f6d2.webp",
+      "Серый Шелк": "assets/variants/fl-af62287be2531394dc.webp",
+      "Шампань": "assets/variants/fl-dd165a4c91f0a04632.webp"
+    },
+    "fl-kombi-650": {
+      "Грей": "assets/variants/fl-57ab9dd89df622969d.webp",
+      "Антрацит": "assets/variants/fl-3ac6eca5a15b92f40d.webp",
+      "Жасмин": "assets/variants/fl-21af71a0c96d693852.webp",
+      "Песочный": "assets/variants/fl-a0107f7acbba44e126.webp",
+      "Серый Шелк": "assets/variants/fl-529dd60644dd23a16f.webp",
+      "Шампань": "assets/variants/fl-a5043624c256ebdbb7.webp"
+    },
+    "fl-kombi-780": {
+      "Грей": "assets/variants/fl-8ed56b55098f4d002b.webp",
+      "Антрацит": "assets/variants/fl-248ce11c5ffb2e808e.webp",
+      "Жасмин": "assets/variants/fl-7699cefc6a0120dba0.webp",
+      "Песочный": "assets/variants/fl-0ca0c20ca6b6c9d3db.webp",
+      "Серый Шелк": "assets/variants/fl-9584a9e6978675b393.webp",
+      "Шампань": "assets/variants/fl-0832d838b2667283e6.webp"
+    },
+    "fl-kombi-860": {
+      "Грей": "assets/variants/fl-de6cf8d87cabc76249.webp",
+      "Антрацит": "assets/variants/fl-0fa50ee985ee874f88.webp",
+      "Жасмин": "assets/variants/fl-a2d52914564d8aaf70.webp",
+      "Песочный": "assets/variants/fl-0ec4f19d48293909f1.webp",
+      "Серый Шелк": "assets/variants/fl-3e687a04af7f9120f6.webp",
+      "Шампань": "assets/variants/fl-fdc7a55fe5ebded162.webp"
+    },
+    "fl-kombi-860-k": {
+      "Грей": "assets/variants/fl-d4738dd9065d094550.webp",
+      "Антрацит": "assets/variants/fl-cd7003712fc7117620.webp",
+      "Жасмин": "assets/variants/fl-055ab08a059bec147a.webp",
+      "Песочный": "assets/variants/fl-39edda52fec7c088aa.webp",
+      "Серый Шелк": "assets/variants/fl-9b4dbc3d696c62c775.webp",
+      "Шампань": "assets/variants/fl-a11f0ac043e91f8c7a.webp"
+    },
+    "fl-konsul-450": {
+      "Грей": "assets/variants/fl-3c11c9ddfc855b0d90.webp",
+      "Антрацит": "assets/variants/fl-1e6f528f887e6a1e88.webp",
+      "Бежевый": "assets/variants/fl-e5eb0cc9c27140f2d8.webp",
+      "Брауни": "assets/variants/fl-b2e11c7f2e6f01fe9a.webp",
+      "Жасмин": "assets/variants/fl-cb7062ab952b85a36a.webp",
+      "Песочный": "assets/variants/fl-02c96096fcd92fe38f.webp",
+      "Серый Шелк": "assets/variants/fl-65eb2e5b404b3dee15.webp",
+      "Черный": "assets/variants/fl-e3e9d001149bc302d9.webp",
+      "Шампань": "assets/variants/fl-4576368771ca6026a4.webp"
+    },
+    "fl-konsul-570": {
+      "Грей": "assets/variants/fl-0c2af858f3c6581a57.webp",
+      "Антрацит": "assets/variants/fl-14e4eb7f61837cbc9c.webp",
+      "Бежевый": "assets/variants/fl-d9bf8b73a437ee2ca7.webp",
+      "Брауни": "assets/variants/fl-7532e309ff3d66c318.webp",
+      "Жасмин": "assets/variants/fl-e723bf63b80fc8e384.webp",
+      "Песочный": "assets/variants/fl-3234abb5cd173bd60b.webp",
+      "Серый Шелк": "assets/variants/fl-d1d28613634f9df6d5.webp",
+      "Черный": "assets/variants/fl-87c1306fbdf265e013.webp",
+      "Шампань": "assets/variants/fl-8e12586b19259d0f93.webp"
+    },
+    "fl-konsul-640": {
+      "Грей": "assets/variants/fl-a488debcbd7d1c80dd.webp",
+      "Антрацит": "assets/variants/fl-51c4f684ba64927cae.webp",
+      "Бежевый": "assets/variants/fl-a404477243d49460c7.webp",
+      "Брауни": "assets/variants/fl-93fec1c6b7fd7df266.webp",
+      "Жасмин": "assets/variants/fl-2a8565e723d8b2be0a.webp",
+      "Песочный": "assets/variants/fl-d0ad9ed656104afdfd.webp",
+      "Серый Шелк": "assets/variants/fl-85330610c5aa8e7a31.webp",
+      "Черный": "assets/variants/fl-5bdd6e598be2a6350f.webp",
+      "Шампань": "assets/variants/fl-188bd4d51b8b3389f3.webp"
+    },
+    "fl-konsul-760": {
+      "Грей": "assets/variants/fl-7a4269fbe4377c1130.webp",
+      "Антрацит": "assets/variants/fl-b04209f7cfdb28130b.webp",
+      "Бежевый": "assets/variants/fl-d953e9c9e4d5995860.webp",
+      "Брауни": "assets/variants/fl-99a6db051b8177f785.webp",
+      "Жасмин": "assets/variants/fl-f441e8521b4ece3c4e.webp",
+      "Песочный": "assets/variants/fl-ddbb49386ca4c40bde.webp",
+      "Серый Шелк": "assets/variants/fl-4fe186a219942232c1.webp",
+      "Черный": "assets/variants/fl-510a6c30d6f07ff206.webp",
+      "Шампань": "assets/variants/fl-cee304a2805c89397b.webp"
+    },
+    "fl-konsul-840": {
+      "Грей": "assets/variants/fl-f4d80fff2b0ebdff38.webp",
+      "Антрацит": "assets/variants/fl-0c9166a797faaceb2c.webp",
+      "Бежевый": "assets/variants/fl-935d48c4ee097325a8.webp",
+      "Брауни": "assets/variants/fl-f06251d95df9ef86d4.webp",
+      "Жасмин": "assets/variants/fl-6c7d844b0f6b558809.webp",
+      "Песочный": "assets/variants/fl-3d80c1b81bb738b83f.webp",
+      "Серый Шелк": "assets/variants/fl-fdd3666cc2b31fcdb0.webp",
+      "Черный": "assets/variants/fl-535819099679ed679d.webp",
+      "Шампань": "assets/variants/fl-5ede77f6b4c2ed9b08.webp"
+    },
+    "fl-latsio-510": {
+      "Грей": "assets/variants/fl-0c919def613fa91cd6.webp",
+      "Антрацит": "assets/variants/fl-a111a4d34418f38fe5.webp",
+      "Бежевый": "assets/variants/fl-101379bd3f2b1d36de.webp",
+      "Брауни": "assets/variants/fl-217f4a84486190f218.webp",
+      "Жасмин": "assets/variants/fl-147bf2cf5fd6d65696.webp",
+      "Песочный": "assets/variants/fl-adacc1ac950e61cea1.webp",
+      "Серый Шелк": "assets/variants/fl-f0e0b53c13286f3e15.webp",
+      "Черный": "assets/variants/fl-ed824e491f0017a502.webp",
+      "Шампань": "assets/variants/fl-843f9ef34048ade3b4.webp"
+    },
+    "fl-latsio-780": {
+      "Грей": "assets/variants/fl-e3ff7e3e1beee40a7c.webp",
+      "Антрацит": "assets/variants/fl-c870462be9a8a9e984.webp",
+      "Бежевый": "assets/variants/fl-6aff135888ada0b474.webp",
+      "Брауни": "assets/variants/fl-8f156491343f1630b1.webp",
+      "Жасмин": "assets/variants/fl-b00c561b4f19088fa8.webp",
+      "Песочный": "assets/variants/fl-01a4310ec08a244880.webp",
+      "Серый Шелк": "assets/variants/fl-0005333d7be7ee86e7.webp",
+      "Черный": "assets/variants/fl-0c34ecf79f092ec015.webp",
+      "Шампань": "assets/variants/fl-cdb9c6e21cea89fd34.webp"
+    },
+    "fl-lipsi-460": {
+      "Грей": "assets/variants/fl-1372aab012419285ac.webp",
+      "Антрацит": "assets/variants/fl-71ed50a9e04425491b.webp",
+      "Бежевый": "assets/variants/fl-06c1bd8ab7599bedaa.webp",
+      "Брауни": "assets/variants/fl-bdf87362a16d95d1d4.webp",
+      "Жасмин": "assets/variants/fl-2c67d4c068c5045ca1.webp",
+      "Нуар": "assets/variants/fl-b1b0351fae68ad95de.webp",
+      "Песочный": "assets/variants/fl-34f326e8f09bcdda8e.webp",
+      "Серый Шелк": "assets/variants/fl-f5bf712c890804daeb.webp",
+      "Черный": "assets/variants/fl-9e80b1bbe761008447.webp",
+      "Шампань": "assets/variants/fl-7fbfae06123f010095.webp"
+    },
+    "fl-lipsi-510": {
+      "Грей": "assets/variants/fl-c36ac31524a1238222.webp",
+      "Антрацит": "assets/variants/fl-a28f517baa8c5510a0.webp",
+      "Бежевый": "assets/variants/fl-a22aeef210e8aee5f9.webp",
+      "Брауни": "assets/variants/fl-072afc19ebfd2f21d4.webp",
+      "Жасмин": "assets/variants/fl-193cbf2ee1a0602d4f.webp",
+      "Нуар": "assets/variants/fl-0775e380d5e13f2eb9.webp",
+      "Песочный": "assets/variants/fl-38d5441482ed1b6a60.webp",
+      "Серый Шелк": "assets/variants/fl-6a7ffb8cdbce31cf04.webp",
+      "Черный": "assets/variants/fl-0e674fc40cd223b04c.webp",
+      "Шампань": "assets/variants/fl-5e891ebf29156b1763.webp"
+    },
+    "fl-lipsi-600": {
+      "Грей": "assets/variants/fl-c865ef55b0efbb0414.webp",
+      "Антрацит": "assets/variants/fl-69435d164818d3a236.webp",
+      "Бежевый": "assets/variants/fl-64973a168178165dd9.webp",
+      "Брауни": "assets/variants/fl-80f4c691eddbfabd64.webp",
+      "Жасмин": "assets/variants/fl-ccb0c026618edee453.webp",
+      "Нуар": "assets/variants/fl-44b778b4fa4adb03e9.webp",
+      "Песочный": "assets/variants/fl-8f6b1b4d738ba95dab.webp",
+      "Серый Шелк": "assets/variants/fl-5ec12e870482e171b4.webp",
+      "Черный": "assets/variants/fl-996e2dd441ea12cf7e.webp",
+      "Шампань": "assets/variants/fl-99ea430ee82e88bdc8.webp"
+    },
+    "fl-lipsi-620_k": {
+      "Грей": "assets/variants/fl-0605bbbfa7903a3c9f.webp",
+      "Антрацит": "assets/variants/fl-8196ba23a7280197e9.webp",
+      "Бежевый": "assets/variants/fl-d158282ceff5df13e5.webp",
+      "Брауни": "assets/variants/fl-7bc954381acd821b7e.webp",
+      "Жасмин": "assets/variants/fl-83fd59470983ebe079.webp",
+      "Песочный": "assets/variants/fl-72ab116b8eaf92fc36.webp",
+      "Серый Шелк": "assets/variants/fl-d98694615c58c42fd4.webp",
+      "Черный": "assets/variants/fl-4ed1d435bcdb4d86f4.webp",
+      "Шампань": "assets/variants/fl-badc3d8e9ad4dda3b4.webp"
+    },
+    "fl-lipsi-650": {
+      "Грей": "assets/variants/fl-a969a3b45412f7332a.webp",
+      "Антрацит": "assets/variants/fl-1c3f13af002c86f06e.webp",
+      "Бежевый": "assets/variants/fl-3feaf9901b8b99bd2c.webp",
+      "Брауни": "assets/variants/fl-3eccdd9c0d77739de4.webp",
+      "Жасмин": "assets/variants/fl-4ba4bf43fef0aad858.webp",
+      "Нуар": "assets/variants/fl-e34edb70bd1070138f.webp",
+      "Песочный": "assets/variants/fl-04299d7f16f6970bcb.webp",
+      "Черный": "assets/variants/fl-e8f6efc73822512c2c.webp",
+      "Шампань": "assets/variants/fl-e9891a4e1d69c7f701.webp"
+    },
+    "fl-lipsi-760": {
+      "Грей": "assets/variants/fl-c0b2534e13e621ac7a.webp",
+      "Антрацит": "assets/variants/fl-6c0217afaaa2c2cfa1.webp",
+      "Бежевый": "assets/variants/fl-79456b782493f2b224.webp",
+      "Брауни": "assets/variants/fl-96353f8db354b542ed.webp",
+      "Жасмин": "assets/variants/fl-2b26d591daf5da3845.webp",
+      "Нуар": "assets/variants/fl-283b54dc22a159108c.webp",
+      "Песочный": "assets/variants/fl-0825cda10c0dd08274.webp",
+      "Серый Шелк": "assets/variants/fl-a038a2e0c4eb036f50.webp",
+      "Черный": "assets/variants/fl-7c565caedb5a2860d3.webp",
+      "Шампань": "assets/variants/fl-ac0ff30afea2c0cadc.webp"
+    },
+    "fl-lipsi-770": {
+      "Грей": "assets/variants/fl-8c37b8d50b90351b38.webp",
+      "Антрацит": "assets/variants/fl-e2fa2dfd172007eb3d.webp",
+      "Бежевый": "assets/variants/fl-bb804df4b2278575da.webp",
+      "Брауни": "assets/variants/fl-8d6acbb143f55c4570.webp",
+      "Жасмин": "assets/variants/fl-002351e54083046ad2.webp",
+      "Песочный": "assets/variants/fl-1fc72406fd87fdfb11.webp",
+      "Серый Шелк": "assets/variants/fl-0ffa0feeaf6b21091e.webp",
+      "Черный": "assets/variants/fl-f86b0d6e207a89b897.webp",
+      "Шампань": "assets/variants/fl-2330295d90ac1071bf.webp"
+    },
+    "fl-lipsi-780": {
+      "Грей": "assets/variants/fl-30e8050002b90dbbcb.webp",
+      "Антрацит": "assets/variants/fl-21e005b5627e72fc51.webp",
+      "Бежевый": "assets/variants/fl-e8d421acb3103e148d.webp",
+      "Брауни": "assets/variants/fl-2f916d9e4e89d83fa6.webp",
+      "Жасмин": "assets/variants/fl-9228bddc2e8637fdc4.webp",
+      "Нуар": "assets/variants/fl-79601c17f5e40b872a.webp",
+      "Песочный": "assets/variants/fl-dd6a163d6260e1da64.webp",
+      "Серый Шелк": "assets/variants/fl-6878adf89365ccec93.webp",
+      "Черный": "assets/variants/fl-9bca6ae7efbff9939d.webp",
+      "Шампань": "assets/variants/fl-28da5e5913ee1c4fdc.webp"
+    },
+    "fl-lipsi-780-xl": {
+      "Грей": "assets/variants/fl-7fda90ab7b4cbc76c5.webp",
+      "Антрацит": "assets/variants/fl-b917df5077ea0b31f6.webp",
+      "Бежевый": "assets/variants/fl-d68c3ab38cb208c90d.webp",
+      "Брауни": "assets/variants/fl-9c2adbef9f377e7c91.webp",
+      "Жасмин": "assets/variants/fl-fbe08e0ed01869e996.webp",
+      "Песочный": "assets/variants/fl-3f37bad95eef1764d6.webp",
+      "Серый Шелк": "assets/variants/fl-1d34bb42d363c1a2f8.webp",
+      "Черный": "assets/variants/fl-ae39813cccef8e8131.webp",
+      "Шампань": "assets/variants/fl-042fbc2df36a522f62.webp"
+    },
+    "fl-lipsi-780_p": {
+      "Грей": "assets/variants/fl-491023c09ab4fabb1b.webp",
+      "Антрацит": "assets/variants/fl-6c4e4d0812a1aa355a.webp",
+      "Бежевый": "assets/variants/fl-cdbb74e8e3d393c473.webp",
+      "Брауни": "assets/variants/fl-afa24a506c787d4834.webp",
+      "Жасмин": "assets/variants/fl-52a705ebb5d7563039.webp",
+      "Песочный": "assets/variants/fl-8fd662463cb3a14aa6.webp",
+      "Серый Шелк": "assets/variants/fl-a71c281e88c3c059c7.webp",
+      "Черный": "assets/variants/fl-fa74eb4d1ac64c265a.webp",
+      "Шампань": "assets/variants/fl-5ddecbec60271847c0.webp"
+    },
+    "fl-lipsi-780_k": {
+      "Грей": "assets/variants/fl-85e9b936231e3792b0.webp",
+      "Антрацит": "assets/variants/fl-b512d9c8dccff130c1.webp",
+      "Бежевый": "assets/variants/fl-0089bcb517d11738cb.webp",
+      "Брауни": "assets/variants/fl-16b3b4213e058cb311.webp",
+      "Жасмин": "assets/variants/fl-e1163933f1a79feeec.webp",
+      "Песочный": "assets/variants/fl-7eb71df69a0680dda8.webp",
+      "Серый Шелк": "assets/variants/fl-71dbd5fa3b0cdfc815.webp",
+      "Черный": "assets/variants/fl-3b3df689ca6017a9d6.webp",
+      "Шампань": "assets/variants/fl-fa60ed385a59064c54.webp"
+    },
+    "fl-lipsi-820": {
+      "Грей": "assets/variants/fl-1b6a45855f56c63a7f.webp",
+      "Антрацит": "assets/variants/fl-b57f3a317a6e3a2cd9.webp",
+      "Бежевый": "assets/variants/fl-dcad9d7912b498b5f1.webp",
+      "Брауни": "assets/variants/fl-9a3e7fc3244f49ccf0.webp",
+      "Жасмин": "assets/variants/fl-a6dc8ab26d354a22ef.webp",
+      "Песочный": "assets/variants/fl-5299c112422975b90c.webp",
+      "Серый Шелк": "assets/variants/fl-673b41fbbc7cc46c7f.webp",
+      "Черный": "assets/variants/fl-03c1914ba045cd9a97.webp",
+      "Шампань": "assets/variants/fl-536a59317e60efd78b.webp"
+    },
+    "fl-lipsi-860": {
+      "Грей": "assets/variants/fl-cda66399291ea7c533.webp",
+      "Антрацит": "assets/variants/fl-e69069413ebcfd4984.webp",
+      "Бежевый": "assets/variants/fl-351ff47c8ba2a528c5.webp",
+      "Брауни": "assets/variants/fl-f95249cb32c9b9727b.webp",
+      "Жасмин": "assets/variants/fl-e3b6dc23e0ea6d2828.webp",
+      "Нуар": "assets/variants/fl-b922272d7325053b75.webp",
+      "Песочный": "assets/variants/fl-db57bc1b067e561d32.webp",
+      "Серый Шелк": "assets/variants/fl-d39cf2bc2ee01dc59d.webp",
+      "Черный": "assets/variants/fl-e454af83c304505b9f.webp",
+      "Шампань": "assets/variants/fl-55b89a98b08df46aad.webp"
+    },
+    "fl-logika-hm-450": {
+      "Сатин": "assets/variants/fl-9f82fc197177210235.webp"
+    },
+    "fl-logika-hm-600": {
+      "Сатин": "assets/variants/fl-e0f15f4d03924c06fe.webp"
+    },
+    "fl-logika-hm-750": {
+      "Сатин": "assets/variants/fl-3abe20fb66c27f826c.webp"
+    },
+    "fl-logika-hm-800": {
+      "Сатин": "assets/variants/fl-07222aa10802354595.webp"
+    },
+    "fl-madena-400": {
+      "Грей": "assets/variants/fl-87d71bdfa43fd2644b.webp",
+      "Антрацит": "assets/variants/fl-443dbeb65cbf601cd3.webp",
+      "Бежевый": "assets/variants/fl-85ea84ee0914d4f59c.webp",
+      "Жасмин": "assets/variants/fl-595341fe609cc07275.webp",
+      "Песочный": "assets/variants/fl-380cbece364bff4435.webp",
+      "Серый Шелк": "assets/variants/fl-99d12d958ef77fffa6.webp",
+      "Черный": "assets/variants/fl-9b7f10f137d4e9f7f4.webp",
+      "Шампань": "assets/variants/fl-fa3c7dcaeb80b80d87.webp"
+    },
+    "fl-madena-500": {
+      "Грей": "assets/variants/fl-37a5913994659c9e22.webp",
+      "Антрацит": "assets/variants/fl-f9526e376cf2bc8d5e.webp",
+      "Бежевый": "assets/variants/fl-b8fd5030b115969f7c.webp",
+      "Жасмин": "assets/variants/fl-ef398f1607749f0a75.webp",
+      "Песочный": "assets/variants/fl-2cd540ea7de6916f2c.webp",
+      "Серый Шелк": "assets/variants/fl-e915abd9a8e028c62f.webp",
+      "Черный": "assets/variants/fl-2cd2d135321d8d95d2.webp",
+      "Шампань": "assets/variants/fl-abc5b220a01c7f35a1.webp"
+    },
+    "fl-modul-500r": {
+      "Грей": "assets/variants/fl-6cf3538dc091bc4560.webp",
+      "Антрацит": "assets/variants/fl-76402fd756a14aa6c2.webp",
+      "Бежевый": "assets/variants/fl-509b9dd94db02b5ce5.webp",
+      "Жасмин": "assets/variants/fl-34ac5bafa4c896c191.webp",
+      "Нуар": "assets/variants/fl-8e06c75d5fdac572e2.webp",
+      "Песочный": "assets/variants/fl-5403ea8deaf790a79f.webp",
+      "Серый Шелк": "assets/variants/fl-3cf295a259be66c4f9.webp",
+      "Шампань": "assets/variants/fl-c44d8c86c3e9e70bc5.webp"
+    },
+    "fl-modul-700r": {
+      "Грей": "assets/variants/fl-34ac46e38931f8a202.webp",
+      "Антрацит": "assets/variants/fl-4c33f356c9920a5209.webp",
+      "Бежевый": "assets/variants/fl-069967ba34772731a3.webp",
+      "Жасмин": "assets/variants/fl-ceb9bfb095aa406875.webp",
+      "Нуар": "assets/variants/fl-df6358c93a7931eef6.webp",
+      "Песочный": "assets/variants/fl-a4a97200b2e890b61e.webp",
+      "Серый Шелк": "assets/variants/fl-0fec37575c4c0b6dce.webp",
+      "Шампань": "assets/variants/fl-dfa885ae19f2dd5570.webp"
+    },
+    "fl-nikosija": {
+      "Грей": "assets/variants/fl-735399d25b68dcd042.webp",
+      "Антрацит": "assets/variants/fl-1e1c6088374202f0f9.webp",
+      "Бежевый": "assets/variants/fl-f3b9679828c8a7250d.webp",
+      "Брауни": "assets/variants/fl-d5ff44c7523d72555b.webp",
+      "Жасмин": "assets/variants/fl-20d1986e618330bf57.webp",
+      "Песочный": "assets/variants/fl-5e469d2e6546d5fecf.webp",
+      "Серый Шелк": "assets/variants/fl-04a7307cc7cab48844.webp",
+      "Черный": "assets/variants/fl-856b9a9d575f7e2671.webp",
+      "Шампань": "assets/variants/fl-cc9b0679e0cd6fe245.webp"
+    },
+    "fl-nire-480": {
+      "Грей": "assets/variants/fl-3cd585624b7157a8d8.webp",
+      "Антрацит": "assets/variants/fl-89b58ca94b03496444.webp",
+      "Бежевый": "assets/variants/fl-e58bc2a590cd4cd468.webp",
+      "Брауни": "assets/variants/fl-0cda64a240dd53c242.webp",
+      "Жасмин": "assets/variants/fl-b21e40487e7b0889ff.webp",
+      "Песочный": "assets/variants/fl-4ccc2a081a73971579.webp",
+      "Серый Шелк": "assets/variants/fl-d94d3d56cbe1fe93d4.webp",
+      "Черный": "assets/variants/fl-b98acb5327e33b8b82.webp",
+      "Шампань": "assets/variants/fl-cc9e57f9a0e71bff0e.webp"
+    },
+    "fl-optima-hm-170": {
+      "Сатин": "assets/variants/fl-a298ec4af791915bfd.webp"
+    },
+    "fl-optima-hm-300": {
+      "Сатин": "assets/variants/fl-c983a8ebf2249a71c4.webp"
+    },
+    "fl-optima-hm-360": {
+      "Сатин": "assets/variants/fl-d6aca245e67b149004.webp"
+    },
+    "fl-optima-hm-400": {
+      "Сатин": "assets/variants/fl-fd9d639f9170726b6a.webp"
+    },
+    "fl-optima-hm-460220": {
+      "Сатин": "assets/variants/fl-106826cce6b36d5abe.webp"
+    },
+    "fl-optima-hm-500": {
+      "Сатин": "assets/variants/fl-6a1343980b3facd60d.webp"
+    },
+    "fl-optima-hm-700": {
+      "Сатин": "assets/variants/fl-9df3c1d1c95c03ff6d.webp"
+    },
+    "fl-pemont-440": {
+      "Грей": "assets/variants/fl-45388db024f72664df.webp",
+      "Антрацит": "assets/variants/fl-c401824a6fb1c004e3.webp",
+      "Бежевый": "assets/variants/fl-90795f397697b54c09.webp",
+      "Жасмин": "assets/variants/fl-d29a2788853799ad9d.webp",
+      "Песочный": "assets/variants/fl-d699a0193dea131bb5.webp",
+      "Серый Шелк": "assets/variants/fl-d0d88534d44dd762c3.webp",
+      "Черный": "assets/variants/fl-48fcc796e21a136f86.webp",
+      "Шампань": "assets/variants/fl-3fd8de714687eae7f6.webp"
+    },
+    "fl-pemont-650": {
+      "Грей": "assets/variants/fl-0ff8c6ffcb76b5d316.webp",
+      "Антрацит": "assets/variants/fl-025b863260ae7bc96b.webp",
+      "Бежевый": "assets/variants/fl-7fbb48bd9e7c9e62ef.webp",
+      "Жасмин": "assets/variants/fl-3269d09fdff66262a7.webp",
+      "Песочный": "assets/variants/fl-aa7a31d9d87e974756.webp",
+      "Серый Шелк": "assets/variants/fl-e7756627b58f84291b.webp",
+      "Черный": "assets/variants/fl-8bf1db419f01a09354.webp",
+      "Шампань": "assets/variants/fl-5884987dd2b4e55105.webp"
+    },
+    "fl-rivera-600": {
+      "Грей": "assets/variants/fl-d59467b177f6a968be.webp",
+      "Антрацит": "assets/variants/fl-5ede7e07750ab639ec.webp",
+      "Бежевый": "assets/variants/fl-f7f6636374e90ffb30.webp",
+      "Жасмин": "assets/variants/fl-590cd4f49698e44ed5.webp",
+      "Песочный": "assets/variants/fl-46ac29cb307154a759.webp",
+      "Серый Шелк": "assets/variants/fl-bae32de1a5b040ae2a.webp",
+      "Черный": "assets/variants/fl-be6033cb6fd1fc7ddd.webp",
+      "Шампань": "assets/variants/fl-f7fd95721d2819d940.webp"
+    },
+    "fl-rivera-780": {
+      "Грей": "assets/variants/fl-06734752e161ae24d4.webp",
+      "Антрацит": "assets/variants/fl-5f5bfc6e19ac7108ee.webp",
+      "Бежевый": "assets/variants/fl-2a345181b72ff8a6f4.webp",
+      "Жасмин": "assets/variants/fl-f246612a99812bafe4.webp",
+      "Песочный": "assets/variants/fl-5bef3a50eb9b52faf9.webp",
+      "Серый Шелк": "assets/variants/fl-b831d83c0e4ee46f94.webp",
+      "Черный": "assets/variants/fl-6c010938efd14ad488.webp",
+      "Шампань": "assets/variants/fl-009d588658516ba96d.webp"
+    },
+    "fl-rivera-860": {
+      "Грей": "assets/variants/fl-c8ff4bb4b2ad21d5db.webp",
+      "Антрацит": "assets/variants/fl-4cff0c3e597a6d6a85.webp",
+      "Бежевый": "assets/variants/fl-79b096494627a8f799.webp",
+      "Жасмин": "assets/variants/fl-d0e6a3f025682dbe7c.webp",
+      "Песочный": "assets/variants/fl-d5afb74138819f5f6d.webp",
+      "Серый Шелк": "assets/variants/fl-84f5bdf2a980c4f198.webp",
+      "Черный": "assets/variants/fl-913b44cf1c610a9585.webp",
+      "Шампань": "assets/variants/fl-2ab0d8c3102ee37f22.webp"
+    },
+    "fl-rodos-620": {
+      "Грей": "assets/variants/fl-0addb5a55f53befba6.webp",
+      "Антрацит": "assets/variants/fl-09afa95bae19daa0e4.webp",
+      "Бежевый": "assets/variants/fl-908a79487b0b8ddabc.webp",
+      "Брауни": "assets/variants/fl-1338c1718c0c766f54.webp",
+      "Жасмин": "assets/variants/fl-d2968d3484e2aabce3.webp",
+      "Песочный": "assets/variants/fl-85d7137694f291f628.webp",
+      "Серый Шелк": "assets/variants/fl-5db61262ec6c1894af.webp",
+      "Черный": "assets/variants/fl-9723229f71d8fa1b37.webp",
+      "Шампань": "assets/variants/fl-9480da964ace94f019.webp"
+    },
+    "fl-romija-770": {
+      "Грей": "assets/variants/fl-905f09c18efcc3f062.webp",
+      "Антрацит": "assets/variants/fl-6a21e17fad29741fd7.webp",
+      "Бежевый": "assets/variants/fl-921d5573920003b27b.webp",
+      "Жасмин": "assets/variants/fl-67bb6044bd0bd70f63.webp",
+      "Песочный": "assets/variants/fl-ce105522b24703bf4c.webp",
+      "Серый Шелк": "assets/variants/fl-b4da83917005fabd55.webp",
+      "Черный": "assets/variants/fl-c30f15be66c5b2665c.webp",
+      "Шампань": "assets/variants/fl-a9458cbec7ea9dd34b.webp"
+    },
+    "fl-rossana": {
+      "Грей": "assets/variants/fl-e5c18b455acbce11b3.webp",
+      "Антрацит": "assets/variants/fl-a4c046a818b27e1bce.webp",
+      "Бежевый": "assets/variants/fl-90c584fe80cf71528a.webp",
+      "Жасмин": "assets/variants/fl-123814e15b1d475aa8.webp",
+      "Песочный": "assets/variants/fl-0b774336fc3492ef01.webp",
+      "Серый Шелк": "assets/variants/fl-796a63cf537f8b7546.webp",
+      "Черный": "assets/variants/fl-4c781063910e78363b.webp",
+      "Шампань": "assets/variants/fl-d7ad7a8b72954b69e4.webp"
+    },
+    "fl-rossana-780": {
+      "Грей": "assets/variants/fl-7cceca36109cd97b50.webp",
+      "Антрацит": "assets/variants/fl-4082c3cf3411ea55bc.webp",
+      "Бежевый": "assets/variants/fl-2d86bb6a0127161503.webp",
+      "Жасмин": "assets/variants/fl-3bf4b55d4c10aba7c9.webp",
+      "Песочный": "assets/variants/fl-bbbc7ce162a758fdd8.webp",
+      "Серый Шелк": "assets/variants/fl-006d8b7c4f9da485fc.webp",
+      "Черный": "assets/variants/fl-60c92aeeedac94d5a0.webp",
+      "Шампань": "assets/variants/fl-47465bb904a0447c43.webp"
+    },
+    "fl-spetsija-860": {
+      "Грей": "assets/variants/fl-dfc59272c90378aeb9.webp",
+      "Антрацит": "assets/variants/fl-e8f89274e053bd75f0.webp",
+      "Бежевый": "assets/variants/fl-7111802ae834b98660.webp",
+      "Жасмин": "assets/variants/fl-aa0a05feb051bbdd1f.webp",
+      "Песочный": "assets/variants/fl-526caeff4b9b99e7e8.webp",
+      "Серый Шелк": "assets/variants/fl-2958c4b95561b51a96.webp",
+      "Черный": "assets/variants/fl-ad2b20dafb2568db43.webp",
+      "Шампань": "assets/variants/fl-f3ecde37172ed3bf42.webp"
+    },
+    "fl-toskana-620": {
+      "Грей": "assets/variants/fl-a0b3ddbd88f9dfeabc.webp",
+      "Антрацит": "assets/variants/fl-dc685da8e0c0f744f7.webp",
+      "Бежевый": "assets/variants/fl-5469d34cce7ad2904f.webp",
+      "Жасмин": "assets/variants/fl-5e7664cab62f8ac624.webp",
+      "Песочный": "assets/variants/fl-6a64f496ea2c96738b.webp",
+      "Серый Шелк": "assets/variants/fl-a4b0ba1ec394bc0df2.webp",
+      "Черный": "assets/variants/fl-e6821d41e8d3ce9eac.webp",
+      "Шампань": "assets/variants/fl-6e0000d40fcafef9c0.webp"
+    },
+    "fl-toskana-770": {
+      "Грей": "assets/variants/fl-e28d5dd2aa67e43520.webp",
+      "Антрацит": "assets/variants/fl-f80ea43d339c103aa4.webp",
+      "Бежевый": "assets/variants/fl-6c46733923bcb84af8.webp",
+      "Жасмин": "assets/variants/fl-901b49b7c18e46085d.webp",
+      "Песочный": "assets/variants/fl-2be711397a32fb29bb.webp",
+      "Серый Шелк": "assets/variants/fl-09dc2ebb24ab013f37.webp",
+      "Черный": "assets/variants/fl-00e9261d0b25b2f251.webp",
+      "Шампань": "assets/variants/fl-5e0cd4832011431b94.webp"
+    },
+    "fl-toskana-780": {
+      "Грей": "assets/variants/fl-994ca1c93685dd84dd.webp",
+      "Антрацит": "assets/variants/fl-2f63a9308a56716ead.webp",
+      "Бежевый": "assets/variants/fl-83ec7e7b2da2a141fb.webp",
+      "Жасмин": "assets/variants/fl-9343c263c7fdbf5f42.webp",
+      "Песочный": "assets/variants/fl-93a9671d3b8a0ba62c.webp",
+      "Серый Шелк": "assets/variants/fl-2b249f0e40280cc99a.webp",
+      "Черный": "assets/variants/fl-3e1df18bc03128221a.webp",
+      "Шампань": "assets/variants/fl-a1c032613eb89a0dde.webp"
+    },
+    "fl-toskana-820": {
+      "Грей": "assets/variants/fl-f338a7622741a8d769.webp",
+      "Антрацит": "assets/variants/fl-f37182cd86b0265faa.webp",
+      "Бежевый": "assets/variants/fl-6ed598d916925dda29.webp",
+      "Жасмин": "assets/variants/fl-64358285c5506cc722.webp",
+      "Песочный": "assets/variants/fl-357c7de084f2e42c90.webp",
+      "Серый Шелк": "assets/variants/fl-dbd7731557b7011404.webp",
+      "Черный": "assets/variants/fl-adb82e11f3239ac127.webp",
+      "Шампань": "assets/variants/fl-bacd5a6f4e07e5244a.webp"
+    },
+    "fl-toskana-860": {
+      "Грей": "assets/variants/fl-7fc865d760105fd866.webp",
+      "Антрацит": "assets/variants/fl-26d0edec2b939bafe6.webp",
+      "Бежевый": "assets/variants/fl-a16cdb73125f9815cb.webp",
+      "Жасмин": "assets/variants/fl-3cb55f982a4af03947.webp",
+      "Песочный": "assets/variants/fl-5d7dc62598abfb0003.webp",
+      "Серый Шелк": "assets/variants/fl-dc02b59b67ce339d7a.webp",
+      "Черный": "assets/variants/fl-ab340f58c871742964.webp",
+      "Шампань": "assets/variants/fl-a633c71dccc71baec5.webp"
+    },
+    "fl-toskana-860-k": {
+      "Грей": "assets/variants/fl-98b607ac89c2bc2f3f.webp",
+      "Антрацит": "assets/variants/fl-45da2e22c98a5a1b09.webp",
+      "Бежевый": "assets/variants/fl-9554bd960c351b01b8.webp",
+      "Жасмин": "assets/variants/fl-43d26f2142ea911343.webp",
+      "Песочный": "assets/variants/fl-f54b1f27d78fdf94f3.webp",
+      "Серый Шелк": "assets/variants/fl-0822c57bc0b859a40a.webp",
+      "Черный": "assets/variants/fl-b6745cb76b7b6bbc0e.webp",
+      "Шампань": "assets/variants/fl-e62994b61a77437adf.webp"
+    },
+    "fl-elba": {
+      "Грей": "assets/variants/fl-af83cdd899448132eb.webp",
+      "Антрацит": "assets/variants/fl-68ab681bcf46ca45d5.webp",
+      "Бежевый": "assets/variants/fl-b33c2fe22368ff3d0b.webp",
+      "Брауни": "assets/variants/fl-b6df89a4d93bf79d39.webp",
+      "Жасмин": "assets/variants/fl-ac164aa643cc91a5b0.webp",
+      "Песочный": "assets/variants/fl-2f4f6bef51cc52f1fb.webp",
+      "Серый Шелк": "assets/variants/fl-e8a36a0d7fa3a3dc8e.webp",
+      "Черный": "assets/variants/fl-708736f7ce6932c2a8.webp",
+      "Шампань": "assets/variants/fl-59abcd00a26f38f40b.webp"
+    },
+    "fl-emilija-640": {
+      "Грей": "assets/variants/fl-a3662317c3ca6c9886.webp",
+      "Антрацит": "assets/variants/fl-f202ed76f90f11d498.webp",
+      "Бежевый": "assets/variants/fl-0920da93170171b4d7.webp",
+      "Жасмин": "assets/variants/fl-6918b2b31ef8d7e876.webp",
+      "Песочный": "assets/variants/fl-b5830c9937af53dbb5.webp",
+      "Серый Шелк": "assets/variants/fl-6d43e776e50d7e322c.webp",
+      "Черный": "assets/variants/fl-87882c32655ff44d99.webp",
+      "Шампань": "assets/variants/fl-719f83f82bcb51e0a6.webp"
+    },
+    "fl-estel-510": {
+      "Грей": "assets/variants/fl-992b9eacb209282a89.webp",
+      "Антрацит": "assets/variants/fl-ee9dac8a05ec462af7.webp",
+      "Бежевый": "assets/variants/fl-4c7e27f879aa6e15d9.webp",
+      "Жасмин": "assets/variants/fl-aef64d51ba776444ab.webp",
+      "Песочный": "assets/variants/fl-311ae9e98bc2018d04.webp",
+      "Серый Шелк": "assets/variants/fl-3720b4b121df0cc333.webp",
+      "Черный": "assets/variants/fl-b59152f18d27c557ea.webp",
+      "Шампань": "assets/variants/fl-6a6b6b2603e1997e0d.webp"
+    },
+    "fl-estel-650": {
+      "Грей": "assets/variants/fl-85283337dce18a3378.webp",
+      "Антрацит": "assets/variants/fl-69d5c614223b5e5d02.webp",
+      "Бежевый": "assets/variants/fl-5102152c172fb95742.webp",
+      "Жасмин": "assets/variants/fl-6ce29c711fd9beed8f.webp",
+      "Песочный": "assets/variants/fl-87c5b3a5965936b38d.webp",
+      "Серый Шелк": "assets/variants/fl-4188221cf0299ff66e.webp",
+      "Черный": "assets/variants/fl-39bac6dbd364d51649.webp",
+      "Шампань": "assets/variants/fl-3049ada40ff33c187c.webp"
+    },
+    "om-fl-вега-400": {
+      "Грей": "assets/variants/fl-97a6d66a75017c1982.webp",
+      "Антрацит": "assets/variants/fl-ddb2f6cda6f76c6b6c.webp",
+      "Бежевый": "assets/variants/fl-5bb7d804997c54709e.webp",
+      "Жасмин": "assets/variants/fl-40d963196fead0a9b9.webp",
+      "Нуар": "assets/variants/fl-c2dbbbb41b6eab7a8a.webp",
+      "Песочный": "assets/variants/fl-6b5d0a700c45d7ed0a.webp",
+      "Серый Шелк": "assets/variants/fl-6c3edcd6f9ccbb8490.webp",
+      "Черный": "assets/variants/fl-4306218187ca8d6488.webp",
+      "Шампань": "assets/variants/fl-3bc335610cb9094de3.webp"
+    },
+    "om-fl-вега-500": {
+      "Грей": "assets/variants/fl-d7eac9ad2e7b8fca7b.webp",
+      "Антрацит": "assets/variants/fl-8bc39924bbb2663b68.webp",
+      "Бежевый": "assets/variants/fl-3dede54c5c9a6ce85e.webp",
+      "Жасмин": "assets/variants/fl-6c0a2914f041bffec5.webp",
+      "Нуар": "assets/variants/fl-12a8ce38e01bf9af7b.webp",
+      "Песочный": "assets/variants/fl-bef3e1bc1c75eeed7f.webp",
+      "Серый Шелк": "assets/variants/fl-0a56454957540b39a0.webp",
+      "Черный": "assets/variants/fl-3c27437fe26d96d941.webp",
+      "Шампань": "assets/variants/fl-e6e5cdea8e68f2d4a1.webp"
+    },
+    "om-fl-консул-570": {
+      "Грей": "assets/variants/fl-0c2af858f3c6581a57.webp",
+      "Антрацит": "assets/variants/fl-14e4eb7f61837cbc9c.webp",
+      "Бежевый": "assets/variants/fl-d9bf8b73a437ee2ca7.webp",
+      "Брауни": "assets/variants/fl-7532e309ff3d66c318.webp",
+      "Жасмин": "assets/variants/fl-e723bf63b80fc8e384.webp",
+      "Песочный": "assets/variants/fl-3234abb5cd173bd60b.webp",
+      "Серый Шелк": "assets/variants/fl-d1d28613634f9df6d5.webp",
+      "Черный": "assets/variants/fl-87c1306fbdf265e013.webp",
+      "Шампань": "assets/variants/fl-8e12586b19259d0f93.webp"
+    },
+    "om-fl-консул-640": {
+      "Грей": "assets/variants/fl-a488debcbd7d1c80dd.webp",
+      "Антрацит": "assets/variants/fl-51c4f684ba64927cae.webp",
+      "Бежевый": "assets/variants/fl-a404477243d49460c7.webp",
+      "Брауни": "assets/variants/fl-93fec1c6b7fd7df266.webp",
+      "Жасмин": "assets/variants/fl-2a8565e723d8b2be0a.webp",
+      "Песочный": "assets/variants/fl-d0ad9ed656104afdfd.webp",
+      "Серый Шелк": "assets/variants/fl-85330610c5aa8e7a31.webp",
+      "Черный": "assets/variants/fl-5bdd6e598be2a6350f.webp",
+      "Шампань": "assets/variants/fl-188bd4d51b8b3389f3.webp"
+    },
+    "om-fl-консул-760": {
+      "Грей": "assets/variants/fl-7a4269fbe4377c1130.webp",
+      "Антрацит": "assets/variants/fl-b04209f7cfdb28130b.webp",
+      "Бежевый": "assets/variants/fl-d953e9c9e4d5995860.webp",
+      "Брауни": "assets/variants/fl-99a6db051b8177f785.webp",
+      "Жасмин": "assets/variants/fl-f441e8521b4ece3c4e.webp",
+      "Песочный": "assets/variants/fl-ddbb49386ca4c40bde.webp",
+      "Серый Шелк": "assets/variants/fl-4fe186a219942232c1.webp",
+      "Черный": "assets/variants/fl-510a6c30d6f07ff206.webp",
+      "Шампань": "assets/variants/fl-cee304a2805c89397b.webp"
+    },
+    "om-fl-липси-460": {
+      "Грей": "assets/variants/fl-1372aab012419285ac.webp",
+      "Антрацит": "assets/variants/fl-71ed50a9e04425491b.webp",
+      "Бежевый": "assets/variants/fl-06c1bd8ab7599bedaa.webp",
+      "Брауни": "assets/variants/fl-bdf87362a16d95d1d4.webp",
+      "Жасмин": "assets/variants/fl-2c67d4c068c5045ca1.webp",
+      "Нуар": "assets/variants/fl-b1b0351fae68ad95de.webp",
+      "Песочный": "assets/variants/fl-34f326e8f09bcdda8e.webp",
+      "Серый Шелк": "assets/variants/fl-f5bf712c890804daeb.webp",
+      "Черный": "assets/variants/fl-9e80b1bbe761008447.webp",
+      "Шампань": "assets/variants/fl-7fbfae06123f010095.webp"
+    },
+    "om-fl-липси-510": {
+      "Грей": "assets/variants/fl-c36ac31524a1238222.webp",
+      "Антрацит": "assets/variants/fl-a28f517baa8c5510a0.webp",
+      "Бежевый": "assets/variants/fl-a22aeef210e8aee5f9.webp",
+      "Брауни": "assets/variants/fl-072afc19ebfd2f21d4.webp",
+      "Жасмин": "assets/variants/fl-193cbf2ee1a0602d4f.webp",
+      "Нуар": "assets/variants/fl-0775e380d5e13f2eb9.webp",
+      "Песочный": "assets/variants/fl-38d5441482ed1b6a60.webp",
+      "Серый Шелк": "assets/variants/fl-6a7ffb8cdbce31cf04.webp",
+      "Черный": "assets/variants/fl-0e674fc40cd223b04c.webp",
+      "Шампань": "assets/variants/fl-5e891ebf29156b1763.webp"
+    },
+    "om-fl-липси-600": {
+      "Грей": "assets/variants/fl-c865ef55b0efbb0414.webp",
+      "Антрацит": "assets/variants/fl-69435d164818d3a236.webp",
+      "Бежевый": "assets/variants/fl-64973a168178165dd9.webp",
+      "Брауни": "assets/variants/fl-80f4c691eddbfabd64.webp",
+      "Жасмин": "assets/variants/fl-ccb0c026618edee453.webp",
+      "Нуар": "assets/variants/fl-44b778b4fa4adb03e9.webp",
+      "Песочный": "assets/variants/fl-8f6b1b4d738ba95dab.webp",
+      "Серый Шелк": "assets/variants/fl-5ec12e870482e171b4.webp",
+      "Черный": "assets/variants/fl-996e2dd441ea12cf7e.webp",
+      "Шампань": "assets/variants/fl-99ea430ee82e88bdc8.webp"
+    },
+    "om-fl-липси-780": {
+      "Грей": "assets/variants/fl-30e8050002b90dbbcb.webp",
+      "Антрацит": "assets/variants/fl-21e005b5627e72fc51.webp",
+      "Бежевый": "assets/variants/fl-e8d421acb3103e148d.webp",
+      "Брауни": "assets/variants/fl-2f916d9e4e89d83fa6.webp",
+      "Жасмин": "assets/variants/fl-9228bddc2e8637fdc4.webp",
+      "Нуар": "assets/variants/fl-79601c17f5e40b872a.webp",
+      "Песочный": "assets/variants/fl-dd6a163d6260e1da64.webp",
+      "Серый Шелк": "assets/variants/fl-6878adf89365ccec93.webp",
+      "Черный": "assets/variants/fl-9bca6ae7efbff9939d.webp",
+      "Шампань": "assets/variants/fl-28da5e5913ee1c4fdc.webp"
+    },
+    "om-fl-липси-780-xl": {
+      "Грей": "assets/variants/fl-7fda90ab7b4cbc76c5.webp",
+      "Антрацит": "assets/variants/fl-b917df5077ea0b31f6.webp",
+      "Бежевый": "assets/variants/fl-d68c3ab38cb208c90d.webp",
+      "Брауни": "assets/variants/fl-9c2adbef9f377e7c91.webp",
+      "Жасмин": "assets/variants/fl-fbe08e0ed01869e996.webp",
+      "Песочный": "assets/variants/fl-3f37bad95eef1764d6.webp",
+      "Серый Шелк": "assets/variants/fl-1d34bb42d363c1a2f8.webp",
+      "Черный": "assets/variants/fl-ae39813cccef8e8131.webp",
+      "Шампань": "assets/variants/fl-042fbc2df36a522f62.webp"
+    },
+    "om-sale-novell-аврора": {
+      "Терра": "assets/variants/novell-avrora-terra-supplied-hd-adobe.webp",
+      "Колорадо": "assets/variants/novell-avrora-colorado-supplied-hd-adobe.webp",
+      "Латте": "assets/variants/novell-avrora-latte-supplied-hd-adobe.webp",
+      "Марокко": "assets/variants/novell-avrora-marokko-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-атланта": {
+      "Латте": "assets/variants/novell-atlanta-latte-supplied-hd-adobe.webp",
+      "Обсидиан": "assets/variants/novell-atlanta-obsidian-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-глория": {
+      "Белый": "assets/variants/novell-gloria-white-supplied-hd-adobe.webp",
+      "Графит": "assets/variants/novell-gloria-graphite-studio.webp",
+      "Марокко": "assets/variants/novell-gloria-marokko-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-изабелла": {
+      "Белый": "assets/variants/novell-izabella-white-supplied-hd-adobe.webp",
+      "Терракотовый": "assets/variants/novell-izabella-terracotta-supplied-hd-adobe.webp",
+      "Серый": "assets/variants/novell-izabella-grey-supplied-hd-adobe.webp",
+      "Обсидиан": "assets/variants/novell-izabella-obsidian-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-нимфа": {
+      "Серый": "assets/variants/novell-nimfa-grey-supplied-hd-adobe.webp",
+      "Белый": "assets/variants/novell-nimfa-white-supplied-hd-adobe.webp",
+      "Терракотовый": "assets/variants/novell-nimfa-terracotta-supplied-hd-adobe.webp"
+    },
+    "om-sim-s-10": {
+      "Черный мат": "assets/variants/simgran-s-10-matte-black-official-v2.webp",
+      "Темно-серый": "assets/variants/simgran-s-10-dark-grey-official-v2.webp",
+      "Сафари": "assets/variants/simgran-s-10-safari-official-v2.webp",
+      "Дакар": "assets/variants/simgran-s-10-dakar-official-v2.webp",
+      "Песок": "assets/variants/simgran-s-10-sand-official-v2.webp"
+    },
+    "om-sale-granicom-g001": {
+      "Сахара": "assets/variants/granicom-g001-sahara-display-hd-adobe.webp",
+      "Серебро": "assets/variants/granicom-g001-silver-display-hd-adobe.webp"
+    },
+    "om-sale-granicom-g002": {
+      "Шоколад": "assets/variants/granicom-g002-chocolate-adobe-proportions.webp",
+      "Дакар": "assets/variants/granicom-g002-dakar-adobe-proportions.webp"
+    },
+    "om-sale-granicom-g006": {
+      "Сахара": "assets/variants/granicom-g006-sahara-supplied-hd-adobe.webp",
+      "Крем": "assets/variants/granicom-g006-cream-supplied-hd-adobe.webp",
+      "Жасмин": "assets/variants/granicom-g006-jasmine-supplied-hd-adobe.webp",
+      "Грей": "assets/variants/granicom-g006-grey-supplied-hd-adobe.webp",
+      "Антрацит": "assets/variants/granicom-g006-antratsit-supplied-hd-adobe.webp"
+    },
+    "om-sale-granicom-g008": {
+      "Антрацит": "assets/variants/granicom-g008-anthracite-adobe-proportions.webp",
+      "Серебро": "assets/variants/granicom-g008-silver-adobe-proportions.webp"
+    },
+    "om-sale-granicom-g009": {
+      "Шоколад": "assets/variants/granicom-g009-chocolate-supplied-hd-adobe.webp",
+      "Крем": "assets/variants/granicom-g009-cream-supplied-hd-adobe.webp"
+    },
+    "om-sale-granicom-g017": {
+      "Сахара": "assets/variants/granicom-g017-sahara-display-hd-adobe-proportions.webp",
+      "Жасмин": "assets/variants/granicom-g017-jasmine-display-hd-adobe-proportions.webp",
+      "Антрацит": "assets/variants/granicom-g017-anthracite-display-hd-adobe-proportions.webp",
+      "Серебро": "assets/variants/granicom-g017-silver-display-hd-adobe-proportions.webp",
+      "Шампань": "assets/variants/granicom-g017-champagne-display-hd-adobe-proportions.webp"
+    },
+    "om-sim-q-10": {
+      "Темно-серый": "assets/variants/simgran-q-10-temno-seryi.webp",
+      "Черный": "assets/variants/simgran-q-10-chernyi.webp",
+      "Белый": "assets/variants/simgran-q-10-molochnyi.webp",
+      "Бежевый": "assets/variants/simgran-q-10-bejevyi.webp",
+      "Шоколад": "assets/variants/simgran-q-10-chokolad.webp"
+    },
+    "om-sim-q-13": {
+      "Темно-серый": "assets/variants/simgran-q-13-temno-seryi.webp",
+      "Черный": "assets/variants/simgran-q-13-chernyi.webp",
+      "Белый": "assets/variants/simgran-q-13-molochnyi.webp",
+      "Бежевый": "assets/variants/simgran-q-13-bejevyi.webp",
+      "Шоколад": "assets/variants/simgran-q-13-chokolad.webp"
+    },
+    "om-sim-s-13": {
+      "Черный мат": "assets/variants/simgran-s-13-matte-black.webp",
+      "Темно-серый": "assets/variants/simgran-s-13-dark-grey.webp",
+      "Сафари": "assets/variants/simgran-s-13-safari.webp",
+      "Дакар": "assets/variants/simgran-s-13-dakar.webp",
+      "Песок": "assets/variants/simgran-s-13-sand.webp"
+    },
+    "om-sim-s-17": {
+      "Черный мат": "assets/variants/simgran-s-17-matte-black.webp",
+      "Темно-серый": "assets/variants/simgran-s-17-dark-grey.webp",
+      "Сафари": "assets/variants/simgran-s-17-safari.webp",
+      "Дакар": "assets/variants/simgran-s-17-dakar.webp",
+      "Песок": "assets/variants/simgran-s-17-sand.webp"
+    },
+    "om-sim-s-18": {
+      "Черный мат": "assets/variants/simgran-s-18-matte-black.webp",
+      "Темно-серый": "assets/variants/simgran-s-18-dark-grey.webp",
+      "Сафари": "assets/variants/simgran-s-18-safari.webp",
+      "Дакар": "assets/variants/simgran-s-18-dakar.webp",
+      "Песок": "assets/variants/simgran-s-18-sand.webp"
+    },
+    "om-sim-s-6": {
+      "Черный мат": "assets/variants/simgran-s-6-matte-black.webp",
+      "Темно-серый": "assets/variants/simgran-s-6-dark-grey.webp",
+      "Сафари": "assets/variants/simgran-s6-safari-adobe-fixed.webp",
+      "Дакар": "assets/variants/simgran-s6-dakar-adobe-fixed.webp",
+      "Песок": "assets/variants/simgran-s6-sand-adobe-fixed.webp"
+    },
+    "om-sim-s-8": {
+      "Черный мат": "assets/variants/simgran-s8-black-adobe-fixed.webp",
+      "Темно-серый": "assets/variants/simgran-s8-grey-adobe-fixed.webp",
+      "Сафари": "assets/variants/simgran-s8-safari-adobe-fixed.webp",
+      "Дакар": "assets/variants/simgran-s8-dakar-adobe-fixed.webp",
+      "Песок": "assets/variants/simgran-s8-sand-adobe-fixed.webp"
+    },
+    "om-sale-granicom-g003": {
+      "Грей": "assets/variants/granicom-g003-grey-studio.webp"
+    },
+    "om-sale-granicom-g010": {
+      "Сахара": "assets/variants/granicom-g010-sahara-supplied-hd-adobe.webp",
+      "Серебро": "assets/variants/granicom-g010-silver-supplied-hd-adobe.webp"
+    },
+    "om-sale-granicom-g016": {
+      "Серебристый": "assets/variants/granicom-g016-silver-supplied-hd-adobe.webp"
+    },
+    "om-sale-granicom-g018": {
+      "Сахара": "assets/variants/granicom-g018-sahara-supplied-hd-adobe.webp"
+    },
+    "om-sale-granicom-g019": {
+      "Сахара": "assets/variants/granicom-g019-sahara-supplied-hd-adobe.webp",
+      "Жасмин": "assets/variants/granicom-g019-jasmine-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-веста": {
+      "Терра": "assets/variants/novell-vesta-terra-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-ирбис": {
+      "Терракотовый": "assets/variants/novell-irbis-terracotta-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-капри": {
+      "Белый": "assets/variants/novell-kapri-white-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-каролина": {
+      "Белый": "assets/variants/novell-karolina-white-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-лира": {
+      "Белый": "assets/variants/novell-lira-white-supplied-hd-adobe.webp"
+    },
+    "om-sale-novell-медея": {
+      "Терракотовый": "assets/variants/novell-medeya-terracotta-supplied-hd-adobe.webp"
+    },
+    "om-sale-granicom-g005": {
+      "Обсидиан": "assets/variants/granicom-g005-obsidian-adobe-corrected.webp",
+      "Серебро": "assets/variants/granicom-g005-silver-adobe-corrected.webp"
+    },
+    "om-sale-granicom-g011": {
+      "Сахара": "assets/variants/granicom-g011-sahara-adobe-corrected.webp",
+      "Жасмин": "assets/variants/granicom-g011-jasmine-adobe-corrected.webp",
+      "Дакар": "assets/variants/granicom-g011-dakar-adobe-corrected.webp",
+      "Грей": "assets/variants/granicom-g011-grey-adobe-corrected.webp",
+      "Терра": "assets/variants/granicom-g011-terra-adobe-corrected.webp",
+      "Шоколад": "assets/variants/granicom-g011-chocolate-adobe-corrected.webp",
+      "Шампань": "assets/variants/granicom-g011-champagne-adobe-corrected.webp"
+    },
+    "om-sale-granicom-g012": {
+      "Антрацит": "assets/variants/granicom-g012-anthracite-adobe-corrected.webp",
+      "Дакар": "assets/variants/granicom-g012-dakar-adobe-corrected.webp",
+      "Жасмин": "assets/variants/granicom-g012-jasmine-adobe-corrected.webp",
+      "Шоколад": "assets/variants/granicom-g012-chocolate-adobe-corrected.webp",
+      "Сахара": "assets/variants/granicom-g012-sahara-adobe-corrected.webp",
+      "Серебро": "assets/variants/granicom-g012-silver-adobe-corrected.webp"
+    }
+  }
+}
