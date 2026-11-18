@@ -67,15 +67,14 @@
       "Серый": "assets/colors/novell-ea1ae91dfe.webp"
     },
     "SimGran": {
-      "Темно-серый": "assets/colors/simgran-official-q-temno-seryi.webp",
-      "Черный": "assets/colors/simgran-official-q-chernyi.webp",
-      "Белый": "assets/colors/simgran-official-q-molochnyi.webp",
-      "Бежевый": "assets/colors/simgran-official-q-bejevyi.webp",
-      "Шоколад": "assets/colors/simgran-official-q-chokolad.webp",
-      "Черный мат": "assets/colors/simgran-9cbef7cc8a.webp",
+      "Чёрный матовый": "assets/colors/simgran-9cbef7cc8a.webp",
+      "Серый": "assets/colors/simgran-99340f13b4.webp",
+      "Тёмно-серый": "assets/colors/simgran-official-q-temno-seryi.webp",
       "Сафари": "assets/colors/simgran-b31e598871.webp",
       "Дакар": "assets/colors/simgran-4954232b67.webp",
-      "Песок": "assets/colors/simgran-31b9e38df6.webp"
+      "Песок": "assets/colors/simgran-31b9e38df6.webp",
+      "Белый крап": "assets/colors/simgran-a024a93d4e.webp",
+      "Терракотовый": "assets/colors/simgran-official-q-chokolad.webp"
     }
   },
   "photos": {
@@ -945,11 +944,14 @@
       "Терракотовый": "assets/variants/novell-nimfa-terracotta-supplied-hd-adobe.webp"
     },
     "om-sim-s-10": {
-      "Черный мат": "assets/variants/simgran-s-10-matte-black-official-v2.webp",
-      "Темно-серый": "assets/variants/simgran-s-10-dark-grey-official-v2.webp",
+      "Чёрный матовый": "assets/variants/simgran-s-10-matte-black-official-v2.webp",
+      "Серый": "assets/variants/simgran-s-10-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-s-10-dark-grey-official-v2.webp",
       "Сафари": "assets/variants/simgran-s-10-safari-official-v2.webp",
       "Дакар": "assets/variants/simgran-s-10-dakar-official-v2.webp",
-      "Песок": "assets/variants/simgran-s-10-sand-official-v2.webp"
+      "Песок": "assets/variants/simgran-s-10-sand-official-v2.webp",
+      "Белый крап": "assets/variants/simgran-s-10-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-s-10-terracotta-adobe-20261117.jpg"
     },
     "om-sale-granicom-g001": {
       "Сахара": "assets/variants/granicom-g001-sahara-display-hd-adobe.webp",
@@ -982,53 +984,74 @@
       "Шампань": "assets/variants/granicom-g017-champagne-display-hd-adobe-proportions.webp"
     },
     "om-sim-q-10": {
-      "Темно-серый": "assets/variants/simgran-q-10-temno-seryi.webp",
-      "Черный": "assets/variants/simgran-q-10-chernyi.webp",
-      "Белый": "assets/variants/simgran-q-10-molochnyi.webp",
-      "Бежевый": "assets/variants/simgran-q-10-bejevyi.webp",
-      "Шоколад": "assets/variants/simgran-q-10-chokolad.webp"
+      "Чёрный матовый": "assets/variants/simgran-q-10-chernyi.webp",
+      "Серый": "assets/variants/simgran-q-10-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-q-10-temno-seryi.webp",
+      "Сафари": "assets/variants/simgran-q-10-safari-adobe-20261117.jpg",
+      "Дакар": "assets/variants/simgran-q-10-dakar-adobe-20261117.jpg",
+      "Песок": "assets/variants/simgran-q-10-sand-adobe-20261117.jpg",
+      "Белый крап": "assets/variants/simgran-q-10-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-q-10-terracotta-adobe-20261117.jpg"
     },
     "om-sim-q-13": {
-      "Темно-серый": "assets/variants/simgran-q-13-temno-seryi.webp",
-      "Черный": "assets/variants/simgran-q-13-chernyi.webp",
-      "Белый": "assets/variants/simgran-q-13-molochnyi.webp",
-      "Бежевый": "assets/variants/simgran-q-13-bejevyi.webp",
-      "Шоколад": "assets/variants/simgran-q-13-chokolad.webp"
+      "Чёрный матовый": "assets/variants/simgran-q-13-chernyi.webp",
+      "Серый": "assets/variants/simgran-q-13-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-q-13-temno-seryi.webp",
+      "Сафари": "assets/variants/simgran-q-13-safari-adobe-20261117.jpg",
+      "Дакар": "assets/variants/simgran-q-13-dakar-adobe-20261117.jpg",
+      "Песок": "assets/variants/simgran-q-13-sand-adobe-20261117.jpg",
+      "Белый крап": "assets/variants/simgran-q-13-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-q-13-terracotta-adobe-20261117.jpg"
     },
     "om-sim-s-13": {
-      "Черный мат": "assets/variants/simgran-s-13-matte-black.webp",
-      "Темно-серый": "assets/variants/simgran-s-13-dark-grey.webp",
+      "Чёрный матовый": "assets/variants/simgran-s-13-matte-black.webp",
+      "Серый": "assets/variants/simgran-s-13-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-s-13-dark-grey.webp",
       "Сафари": "assets/variants/simgran-s-13-safari.webp",
       "Дакар": "assets/variants/simgran-s-13-dakar.webp",
-      "Песок": "assets/variants/simgran-s-13-sand.webp"
+      "Песок": "assets/variants/simgran-s-13-sand.webp",
+      "Белый крап": "assets/variants/simgran-s-13-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-s-13-terracotta-adobe-20261117.jpg"
     },
     "om-sim-s-17": {
-      "Черный мат": "assets/variants/simgran-s-17-matte-black.webp",
-      "Темно-серый": "assets/variants/simgran-s-17-dark-grey.webp",
+      "Чёрный матовый": "assets/variants/simgran-s-17-matte-black.webp",
+      "Серый": "assets/variants/simgran-s-17-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-s-17-dark-grey.webp",
       "Сафари": "assets/variants/simgran-s-17-safari.webp",
       "Дакар": "assets/variants/simgran-s-17-dakar.webp",
-      "Песок": "assets/variants/simgran-s-17-sand.webp"
+      "Песок": "assets/variants/simgran-s-17-sand.webp",
+      "Белый крап": "assets/variants/simgran-s-17-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-s-17-terracotta-adobe-20261117.jpg"
     },
     "om-sim-s-18": {
-      "Черный мат": "assets/variants/simgran-s-18-matte-black.webp",
-      "Темно-серый": "assets/variants/simgran-s-18-dark-grey.webp",
+      "Чёрный матовый": "assets/variants/simgran-s-18-matte-black.webp",
+      "Серый": "assets/variants/simgran-s-18-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-s-18-dark-grey.webp",
       "Сафари": "assets/variants/simgran-s-18-safari.webp",
       "Дакар": "assets/variants/simgran-s-18-dakar.webp",
-      "Песок": "assets/variants/simgran-s-18-sand.webp"
+      "Песок": "assets/variants/simgran-s-18-sand.webp",
+      "Белый крап": "assets/variants/simgran-s-18-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-s-18-terracotta-adobe-20261117.jpg"
     },
     "om-sim-s-6": {
-      "Черный мат": "assets/variants/simgran-s-6-matte-black.webp",
-      "Темно-серый": "assets/variants/simgran-s-6-dark-grey.webp",
+      "Чёрный матовый": "assets/variants/simgran-s-6-matte-black.webp",
+      "Серый": "assets/variants/simgran-s-6-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-s-6-dark-grey.webp",
       "Сафари": "assets/variants/simgran-s6-safari-adobe-fixed.webp",
       "Дакар": "assets/variants/simgran-s6-dakar-adobe-fixed.webp",
-      "Песок": "assets/variants/simgran-s6-sand-adobe-fixed.webp"
+      "Песок": "assets/variants/simgran-s6-sand-adobe-fixed.webp",
+      "Белый крап": "assets/variants/simgran-s-6-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-s-6-terracotta-adobe-20261117.jpg"
     },
     "om-sim-s-8": {
-      "Черный мат": "assets/variants/simgran-s8-black-adobe-fixed.webp",
-      "Темно-серый": "assets/variants/simgran-s8-grey-adobe-fixed.webp",
+      "Чёрный матовый": "assets/variants/simgran-s8-black-adobe-fixed.webp",
+      "Серый": "assets/variants/simgran-s-8-gray-adobe-20261117.jpg",
+      "Тёмно-серый": "assets/variants/simgran-s8-grey-adobe-fixed.webp",
       "Сафари": "assets/variants/simgran-s8-safari-adobe-fixed.webp",
       "Дакар": "assets/variants/simgran-s8-dakar-adobe-fixed.webp",
-      "Песок": "assets/variants/simgran-s8-sand-adobe-fixed.webp"
+      "Песок": "assets/variants/simgran-s8-sand-adobe-fixed.webp",
+      "Белый крап": "assets/variants/simgran-s-8-white-speck-adobe-20261117.jpg",
+      "Терракотовый": "assets/variants/simgran-s-8-terracotta-adobe-20261117.jpg"
     },
     "om-sale-granicom-g003": {
       "Грей": "assets/variants/granicom-g003-grey-studio.webp"
@@ -1079,12 +1102,12 @@
       "Шампань": "assets/variants/granicom-g011-champagne-adobe-corrected.webp"
     },
     "om-sale-granicom-g012": {
-      "Антрацит": "assets/variants/granicom-g012-anthracite-adobe-corrected.webp",
-      "Дакар": "assets/variants/granicom-g012-dakar-adobe-corrected.webp",
-      "Жасмин": "assets/variants/granicom-g012-jasmine-adobe-corrected.webp",
-      "Шоколад": "assets/variants/granicom-g012-chocolate-adobe-corrected.webp",
-      "Сахара": "assets/variants/granicom-g012-sahara-adobe-corrected.webp",
-      "Серебро": "assets/variants/granicom-g012-silver-adobe-corrected.webp"
+      "Антрацит": "assets/variants/granicom-g012-anthracite-20261117.webp",
+      "Дакар": "assets/variants/granicom-g012-dakar-adobe-20261117.jpg",
+      "Жасмин": "assets/variants/granicom-g012-jasmine-adobe-20261117.jpg",
+      "Шоколад": "assets/variants/granicom-g012-chocolate-adobe-20261117.jpg",
+      "Сахара": "assets/variants/granicom-g012-sahara-adobe-20261117.jpg",
+      "Серебро": "assets/variants/granicom-g012-silver-adobe-20261117.jpg"
     }
   }
 }
